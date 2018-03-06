@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/jdphonecrawler.iml" filepath="$PROJECT_DIR$/.idea/jdphonecrawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../phonecomments/.idea/phonecomments.iml" filepath="$PROJECT_DIR$/../phonecomments/.idea/phonecomments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../similar_repos/.idea/similar_repos.iml" filepath="$PROJECT_DIR$/../../similar_repos/.idea/similar_repos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../test/.idea/test.iml" filepath="$PROJECT_DIR$/../../test/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
